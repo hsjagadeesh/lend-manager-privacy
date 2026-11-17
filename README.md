@@ -1,6 +1,6 @@
 # Lend Manager – Privacy Policy
 
-The public privacy policy for the Lend Manager app by Innodhara (`com.innodhara.lendmanager`), published with GitHub Pages.
+The public privacy policy for the Lend Manager app by Innoudaya (`com.innoudaya.lendmanager`), published with GitHub Pages.
 
 - **Page:** `index.html`, a single self-contained page (no build step, no scripts).
 - **Public link:** https://hsjagadeesh.github.io/lend-manager-privacy/
